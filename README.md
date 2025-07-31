@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naira Almelegy</h1>
 <h3 align="center">A passionate frontend developer and Bioinformatician from Egypt</h3>
-<img src="https://komarev.com/ghpvc/?username=nairaalmelegy&label=Profile%20views&color=0e75b6&style=flat" alt="nairaalmelegy" />
+<img src="https://drive.google.com/uc?export=view&id=1Y9qN5vhlEkjuXhQq2fYTjJboJnhMd83z" alt="nairaalmelegy" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nairaalmelegy&label=Profile%20views&color=0e75b6&style=flat" alt="nairaalmelegy" /> </p>
 
