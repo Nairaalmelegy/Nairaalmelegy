@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NEXT.js & Bioinformatics**
 
-- 👯 I’m looking to collaborate on **Genomic Report: Starting soon, i need a backend developer**
+- 👯 I’m looking to collaborate on **Genomic Report website: Starting soon, i need a backend developer, if you feel interested contact me**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-olive-eight.vercel.app/](https://personal-portfolio-olive-eight.vercel.app/)
 
